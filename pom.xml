@@ -10,17 +10,11 @@
 	<description>VanillaJS Utils for Spring Web</description>
 
 	<dependencies>
-
-		<dependency>
-			<groupId>org.bchrpc4j</groupId>
-			<artifactId>bchrpc4j</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 		
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>5.2.9.RELEASE</version>
+			<version>5.3.2</version>
 		</dependency>
 		
 	</dependencies>
