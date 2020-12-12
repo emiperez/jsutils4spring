@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.emiperez</groupId>
 	<artifactId>jsutils4spring</artifactId>
-	<version>0.1.0</version>
+	<version>0.2.0</version>
 	<name>jsutils4spring</name>
 	<description>VanillaJS Utils for Spring Web</description>
 
